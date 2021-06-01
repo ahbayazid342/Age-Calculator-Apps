@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+    <string name="calculator">Age Calculator</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="your_age">Your Age</string>
+    <string name="total_years">Total Years :</string>
+    <string name="total_months">Total Months :</string>
+    <string name="total_days">Total Days :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
